@@ -1,4 +1,4 @@
-## TransCal: Transistor Analyzer
+## TransCal: Transistor Calculator
 
 `transcal` package include so popular transistor configuration. 
 It provides analysing transistors in `dc` and `ac` states.
